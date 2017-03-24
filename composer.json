@@ -1,5 +1,6 @@
 {
   "name": "carono/exe-version-info",
+  "description": "Unpack exe files, and return version info data",
   "license": "MIT",
   "authors": [
     {
