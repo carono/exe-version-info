@@ -1,0 +1,16 @@
+{
+  "name": "carono/exe-version-info",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "carono",
+      "email": "info@carono.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "carono\\exe\\": ""
+    }
+  }
+}
